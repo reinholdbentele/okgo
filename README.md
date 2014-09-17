@@ -1,4 +1,4 @@
 okgo
 ====
 
-The repository to go
+The repository to go. That's it.
